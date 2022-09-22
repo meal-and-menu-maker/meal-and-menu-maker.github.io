@@ -1,0 +1,12 @@
+{
+  "/create": "pages/create.html",
+  "/": "pages/index.html",
+  "/macros": "pages/macros.html",
+  "/meals": "pages/meals.html",
+  "/modify": "pages/modify.html",
+  "/rules": "pages/rules.html",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
